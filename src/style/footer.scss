@@ -1,0 +1,35 @@
+.footer {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+
+    &-content {
+        width: 150%;
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 20px;
+
+        a {
+            color: #0e5eff;
+        }
+    } 
+
+    &-bottom {
+        width: 150%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+h3, h2 {
+    color: rgb(130 1 31);
+}
+
+.download {
+    padding: 5px 10px;
+    color: #000;
+    border: 1px solid #000;
+    margin-top: 20px;
+}

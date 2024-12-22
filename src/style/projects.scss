@@ -1,0 +1,36 @@
+.project {
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 9px -1px rgba(34, 60, 80, 0.2);
+
+    &-top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &-bottom {
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-between;
+
+        a {
+            margin-right: 20px;
+            color: #0e5eff;
+        }
+    }
+
+    .technologies {
+        display: flex;
+        gap: 10px; 
+    }
+}
+
+.project:last-child {
+    margin: 0;
+}
+
+.contact {
+    display: flex;
+    align-items: baseline;
+}
