@@ -9,9 +9,9 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>© Created by Nadezhda Zhigarevich</p>
-        <p>2024, BSU</p>
+        <p>2025, BSU</p>
       </div>
-      <a className="download" href="./cv_zhigarevich.pdf" download>
+      <a className="download" href="./cv.pdf" download>
         Download
       </a>
     </div>
