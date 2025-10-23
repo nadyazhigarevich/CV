@@ -11,7 +11,7 @@ const Contacts = () => {
                 </div>
                 <div className="contact">
                     <h4>Phone:</h4>
-                    <p>+123456789012</p>
+                    <p>+375298937258</p>
                 </div>
                 <div className="contact">
                     <h4>Telegram:</h4>

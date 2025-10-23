@@ -9,6 +9,7 @@ const Skills = () => {
             <ul>
                 <li>C++</li>
                 <li>SQL</li>
+                <li>Java</li>
             </ul>
             <h4>Frontend skills:</h4>
             <ul>
